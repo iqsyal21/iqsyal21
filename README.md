@@ -1,4 +1,7 @@
-### Hi there 👋
+### Halo semua! 
+
+Perkenalkan nama saya **Iqsyal Maulana**.\
+Saya seorang mahasiswa IT. Untuk saat ini saya masih belajar tentang dunia programming khususnya web development, mungkin untuk sekarang belum ada karya atau projek yang bisa saya tunjukan tetapi kedepannya pasti akan saya lakukan yang terbaik agar bisa menjadi seorang web developer yang profesional.
 
 <!--
 **iqsyal21/iqsyal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
