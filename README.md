@@ -1,7 +1,10 @@
-### Halo semua! 
+## keep learning and stay humble
 
-Perkenalkan nama saya **Iqsyal Maulana**.\
-Saya seorang mahasiswa IT. Untuk saat ini saya masih belajar tentang dunia programming khususnya web development, mungkin untuk sekarang belum ada karya atau projek yang bisa saya tunjukan tetapi kedepannya pasti akan saya lakukan yang terbaik agar bisa menjadi seorang web developer yang profesional.
+### JavaScript Web Dev
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/iqsyal-maulana-919ab2232)
+
+<br>
 
 <p align="left">
 <a href="https://github.com/iqsyal21">
